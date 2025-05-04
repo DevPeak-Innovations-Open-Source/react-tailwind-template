@@ -16,6 +16,7 @@ export default defineConfig({
 ```
 
 ## Copy this in index.css
+### Note:- this @import will not work in index.scss
 ```
 @import "tailwindcss";
 
